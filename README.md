@@ -1,1 +1,1 @@
-# .github
+# About the Open Risk Academy
